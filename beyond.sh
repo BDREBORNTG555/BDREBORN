@@ -94,3 +94,4 @@ if [ ! -f ./tg/tgcli ]; then
    ./tg/tgcli -s ./bot/bot.lua -l 1 -E $@
    #./tg/tgcli -s ./bot/bot.lua $@
 fi
+
